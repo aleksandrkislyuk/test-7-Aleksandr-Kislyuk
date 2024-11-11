@@ -1,0 +1,18 @@
+{
+  "name": "test7-aleksandrkislyuk",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hrrps://github.com/aleksandrkislyuk/test-7-Aleksandr-Kislyuk"
+  },
+  "keywords": [
+    "aleksandrkislyuk"
+  ],
+  "author": "Aleksandr Kislyuk",
+  "license": "ISC"
+}
