@@ -14,5 +14,9 @@
     "aleksandrkislyuk"
   ],
   "author": "Aleksandr Kislyuk",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg": "^8.13.1"
+  }
 }
