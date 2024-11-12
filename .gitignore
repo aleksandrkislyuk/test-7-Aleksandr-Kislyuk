@@ -1,2 +1,9 @@
 node_modules/
 config.json
+temp/
+*.tmp
+*.log
+*.cache
+npm-debug.log
+.env
+dist/
