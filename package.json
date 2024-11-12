@@ -18,5 +18,8 @@
   "dependencies": {
     "express": "^4.21.1",
     "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
   }
 }
