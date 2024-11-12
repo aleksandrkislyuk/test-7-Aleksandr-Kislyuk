@@ -1,22 +1,12 @@
 {
-  "name": "test7-aleksandrkislyuk",
+  "name": "your-project-name",
   "version": "1.0.0",
-  "description": "homework",
-  "main": "src/index.js",
+  "description": "Your project description",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel serve src/index.html",
     "build": "parcel build src/index.html"
   },
-  "repository": {
-    "type": "git",
-    "url": "hrrps://github.com/aleksandrkislyuk/test-7-Aleksandr-Kislyuk"
-  },
-  "keywords": [
-    "aleksandrkislyuk"
-  ],
-  "author": "Aleksandr Kislyuk",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.21.1",
     "pg": "^8.13.1"
