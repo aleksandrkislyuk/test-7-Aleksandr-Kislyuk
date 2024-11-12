@@ -1,1 +1,1 @@
-console.log('Hello from Parsel!')
+document.body.innerHTML = '<h1>Hello from Parcel!</h1>';
